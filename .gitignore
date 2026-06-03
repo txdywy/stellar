@@ -1,0 +1,10 @@
+.venv/
+data/
+catboost_info/
+*.pth
+*.zip
+*.log
+*.csv
+!README.md
+playground-series-s6e6.zip
+__pycache__/
