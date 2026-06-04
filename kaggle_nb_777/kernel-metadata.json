@@ -1,0 +1,13 @@
+{
+  "id": "txdywy/realmlp-seed-777",
+  "title": "RealMLP Seed 777",
+  "code_file": "realmlp_s777.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": ["playground-series-s6e6"],
+  "model_sources": []
+}

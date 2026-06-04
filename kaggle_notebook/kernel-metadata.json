@@ -1,0 +1,13 @@
+{
+  "id": "txdywy/multi-seed-realmlp-ensemble",
+  "title": "Multi-Seed RealMLP Ensemble",
+  "code_file": "multiseed_realmlp.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": ["playground-series-s6e6"],
+  "model_sources": []
+}
