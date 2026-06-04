@@ -1,0 +1,13 @@
+{
+  "id": "txdywy/tabpfn-3-stacker-s6e6",
+  "title": "TabPFN-3 Stacker S6E6",
+  "code_file": "tabpfn_stacker.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["playground-series-s6e6"],
+  "dataset_sources": ["txdywy/s6e6-stacking-preds"],
+  "model_sources": ["prior-labsai/tabpfn-3/pytorch/default/1"]
+}

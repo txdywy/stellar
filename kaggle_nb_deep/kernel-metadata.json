@@ -1,0 +1,11 @@
+{
+  "id": "txdywy/realmlp-deep-v1",
+  "title": "RealMLP Deep V1",
+  "code_file": "realmlp_deep.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["playground-series-s6e6"]
+}

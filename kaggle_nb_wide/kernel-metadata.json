@@ -1,0 +1,11 @@
+{
+  "id": "txdywy/realmlp-wide-v1",
+  "title": "RealMLP Wide V1",
+  "code_file": "realmlp_wide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["playground-series-s6e6"]
+}

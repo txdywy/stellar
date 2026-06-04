@@ -1,0 +1,12 @@
+{
+  "id": "txdywy/lr-stacker-s6e6",
+  "title": "LR Stacker S6E6",
+  "code_file": "lr_stacker.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "competition_sources": ["playground-series-s6e6"],
+  "dataset_sources": ["txdywy/s6e6-stacking-preds"]
+}
